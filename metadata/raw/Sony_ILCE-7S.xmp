@@ -1,0 +1,26 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Hand-typed for the Dalica corpus">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmp:Rating="5"
+    xmp:CreatorTool="Some Raw Converter 4.2"
+    xmp:MetadataDate="2024-06-01T10:00:00+02:00"
+    exif:DateTimeOriginal="2021-04-05T06:07:08.9+01:00"
+    exif:GPSLatitude="51,30.0720N"
+    exif:GPSLongitude="0,7.5960W"
+    photoshop:DateCreated="2021-04-05T06:07:08+01:00"
+    crs:Version="15.4"
+    crs:Exposure2012="-0.50"
+    crs:Highlights2012="-40"
+    crs:Shadows2012="+25"
+    crs:Vibrance="+10"/>
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <dc:description><rdf:Alt><rdf:li xml:lang="x-default">Attribute-form sidecar &amp; a second description</rdf:li></rdf:Alt></dc:description>
+   <dc:subject><rdf:Bag><rdf:li>London</rdf:li><rdf:li>river &amp; bridges</rdf:li></rdf:Bag></dc:subject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

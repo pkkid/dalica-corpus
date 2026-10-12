@@ -10,3 +10,7 @@ repository.
 - `photos/`: camera and phone JPEGs, plus TIFF, PNG and WebP (orientations, EXIF thumbnails, MPF
   previews and gain maps, ICC profiles, CMYK, 16-bit, progressive, truncated).
 - `heif/`: small HEIC files from phones.
+- `metadata/`: Dalica's own generated `scenes` photos (JPEG, PNG, WebP, TIFF, a DNG-like TIFF and
+  RAW `.xmp` sidecars) after other tools (exiv2, ImageMagick, Pillow) wrote captions, keywords,
+  ratings, GPS, dates, face regions and foreign fields into them; each file's tool and version are
+  in `SOURCES.tsv`.
